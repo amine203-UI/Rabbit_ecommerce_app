@@ -3,6 +3,10 @@
   <strong>Developed by Amine Ould Medjeber</strong>
 </p>
 
+<p align="center">
+  <img src="/frontend/public/screenshot.png" alt="Chat App Demo" width="700">
+</p>
+
 ---
 
 ## 🛍️ Overview
@@ -63,9 +67,7 @@ npm run dev
 📸 Project Preview
 (You can add a screenshot here once available)
 
-swift
 
-/frontend/public/screenshot.png
 👨‍💻 Author
 Amine Ould Medjeber
 Full-Stack Developer | Node.js • React • MongoDB • Express.js
