@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="/frontend/public/screenshot.png.png" alt="Ecommerce_Demo" width="700">
+  <img src="/frontend/public/rabbit-image.png" alt="Ecommerce_Demo" width="700">
 </p>
 
 ---
